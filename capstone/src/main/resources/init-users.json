@@ -1,0 +1,72 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "username": "johndoe",
+    "pwHash": "$2a$10$pAETfZd3nV58LmHJmcgegOFtiV8FXqui6xPGVdMWLCXVmPOGIntqW"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "username": "janesmith",
+    "pwHash": "$2b$10$EJjfa6jKQLfqJq0l5Ik4cu4H4g9oIAH47mc8EvZ2tggw4vWniTIaS"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "email": "emily.johnson@example.com",
+    "username": "emilyj",
+    "pwHash": "$2b$10$6jLDZg1wHhtWPAyqJyxDeKvdbPoYAKkAtXqUtYO8ebfTtUBfoHRhC"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "email": "michael.brown@example.com",
+    "username": "mikeb",
+    "pwHash": "$2b$10$Jf6PTiv79dKbX1cUGwhrfU9aMvRUhHJmUjId0baFM7cM8q9fHHlQi"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Davis",
+    "email": "sarah.davis@example.com",
+    "username": "sarahd",
+    "pwHash": "$2b$10$6cEOXl8fw6vjmyVZIlgrHuqNQyAkWAjMQpns71sdGV1DCyihqgh1m"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Miller",
+    "email": "james.miller@example.com",
+    "username": "jamesm",
+    "pwHash": "$2b$10$YpOK.5HfzgV.tR7Eu0gU8OU5rC4Ev5gyOZfF8PxbA5PYpOXOB5gFu"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Wilson",
+    "email": "olivia.wilson@example.com",
+    "username": "oliviaw",
+    "pwHash": "$2b$10$Aqer1nmlUmt9RjAc0yLg9y9RmHZy8YWaHUjAcGZBdIGsU6PS2QF5u"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Moore",
+    "email": "david.moore@example.com",
+    "username": "davidm",
+    "pwHash": "$2b$10$PbWkWGc4H75jNk.Ga9lbWOi5hIEt23lrwBf5vYlra5bAi9KtS96jG"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Taylor",
+    "email": "sophia.taylor@example.com",
+    "username": "sophiat",
+    "pwHash": "$2b$10$Wew33OZ2m3FzEL64SGBzI2Pfy/P5Hv5hgoU18JdTiJ3wSYT3z6.5u"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Anderson",
+    "email": "william.anderson@example.com",
+    "username": "williama",
+    "pwHash": "$2b$10$gK2qWTfnXYN3YPFmClpD8gF6ZW0gI7jX7DzYqaOg0yRuwLq6xjl0u"
+  }
+]

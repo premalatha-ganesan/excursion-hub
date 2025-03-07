@@ -1,0 +1,48 @@
+
+
+#root {
+  margin: 0 auto;
+  padding: 3rem;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  #root {
+    padding: 3rem 0 0 0;
+  }
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+#forgot{
+  color:gray;
+}
+
+#register{
+  color: #223843;
+}
+
+#logout{
+  color: darkgray;
+}
+
+.hero{
+  text-shadow: -1px -1px 0 #7EA8BE, 1px -1px 0 #ffffff,
+          -1px 1px 0 #bbb193, 1px 1px 0 #ffffff; 
+          color: #223843;
+}

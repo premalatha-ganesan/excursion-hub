@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Statue of Liberty",
+    "description": "The Statue of Liberty is an iconic symbol of freedom and democracy, located on Liberty Island in New York Harbor. Gifted by France in 1886, this colossal statue welcomes visitors with its powerful message of hope. It offers panoramic views of New York City and is a must-visit landmark.",
+    "attractionTags": ["LANDMARK", "HISTORY", "SCENIC", "MONUMENT"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1503572327579-b5c6afe5c5c5"
+  },
+  {
+    "name": "Central Park",
+    "description": "Central Park is a vast urban oasis in the heart of Manhattan, offering over 840 acres of green space. Visitors can enjoy walking, cycling, picnicking, boating, and more. It is home to numerous attractions, including ponds, gardens, and the Central Park Zoo, making it a perfect destination for families and nature lovers.",
+    "attractionTags": ["NATURE", "OUTDOOR", "WALKING", "SCENIC", "FAMILY"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1602087564121-ecda2f6c7ee9"
+  },
+  {
+    "name": "The Metropolitan Museum of Art",
+    "description": "The Metropolitan Museum of Art (The Met) is one of the world's largest and most prestigious art museums, with a vast collection of over two million works of art. The museum spans over 5,000 years of art history, featuring exhibits from ancient Egypt, European paintings, and modern American art.",
+    "attractionTags": ["ART", "MUSEUM", "CULTURE", "EDUCATIONAL"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5"
+  },
+  {
+    "name": "Empire State Building",
+    "description": "The Empire State Building is a legendary skyscraper that was once the tallest building in the world. With stunning views from its observation decks, it offers one of the best panoramas of New York City. The building is also known for its art-deco architecture and its prominent role in pop culture.",
+    "attractionTags": ["SKYSCRAPER", "LANDMARK", "PHOTOGRAPHY", "SCENIC"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1555109307-f7d9da25c244"
+  },
+  {
+    "name": "Times Square",
+    "description": "Times Square is one of the most vibrant and busy areas of New York City, known for its flashing billboards, Broadway theatres, and 24/7 activity. It is the epicenter of entertainment and culture, with countless shops, restaurants, and attractions. The New Year’s Eve ball drop is held here annually.",
+    "attractionTags": ["ENTERTAINMENT", "NIGHTLIFE", "CULTURE"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl" : "https://images.unsplash.com/photo-1564731172644-563c83e3b472"
+  },
+  {
+    "name": "Broadway Theatre",
+    "description": "Broadway Theatre in New York City is synonymous with world-class performances. It is the heart of American theatre, showcasing the best musicals, plays, and performances. Whether you’re watching a long-running hit or a brand-new production, a Broadway show is an unforgettable experience.",
+    "attractionTags": ["THEATRE", "ENTERTAINMENT", "CULTURE"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl" : "https://images.pexels.com/photos/30295438/pexels-photo-30295438/free-photo-of-vibrant-times-square-broadway-marquee-scene.jpeg"
+  },
+  {
+    "name": "Brooklyn Bridge",
+    "description": "The Brooklyn Bridge is one of New York’s most iconic structures, connecting Manhattan and Brooklyn. Opened in 1883, it was the first steel-wire suspension bridge and remains a marvel of engineering. Visitors can walk or cycle across the bridge, enjoying scenic views of the skyline and the East River.",
+    "attractionTags": ["LANDMARK", "ARCHITECTURE", "PHOTOGRAPHY", "WALKING"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1479779978657-f97923f70d04"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA)",
+    "description": "The Museum of Modern Art (MoMA) is one of the most influential art museums in the world, with a collection of over 200,000 works of art from modern and contemporary artists. It includes paintings, sculptures, design, photography, and film, featuring renowned artists like Van Gogh, Picasso, and Warhol.",
+    "attractionTags": ["ART", "MUSEUM", "CULTURE", "EDUCATIONAL"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1579541814924-49fef17c5be5"
+  },
+  {
+    "name": "Rockefeller Center",
+    "description": "Rockefeller Center is a sprawling complex in the heart of Manhattan that houses the famous ice skating rink and the towering Rockefeller Plaza. It’s home to NBC studios, high-end stores, and fine dining. Visitors can also visit the Top of the Rock observation deck for sweeping views of the city.",
+    "attractionTags": ["LANDMARK", "ENTERTAINMENT", "SKYSCRAPER", "PHOTOGRAPHY"],
+    "city": "New York City",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1476460632401-ac176d6ff302?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Millennium Park",
+    "description": "Millennium Park is a 24.5-acre public park located in downtown Chicago. It’s home to the iconic Cloud Gate (also known as 'The Bean'), which reflects the city’s skyline. The park also features the Crown Fountain, Jay Pritzker Pavilion, and beautiful gardens, making it a top destination for tourists and locals alike.",
+    "attractionTags": ["LANDMARK", "ART", "SCENIC", "FAMILY"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/876218/pexels-photo-876218.jpeg"
+  },
+  {
+    "name": "Willis Tower (formerly Sears Tower)",
+    "description": "Willis Tower, once known as the Sears Tower, is one of the tallest buildings in the United States. The Skydeck on the 103rd floor offers stunning views of the city and beyond. For a thrill, visitors can step onto ‘The Ledge,’ a glass-floored balcony that extends out from the building.",
+    "attractionTags": ["SKYSCRAPER", "LANDMARK", "SCENIC", "PHOTOGRAPHY"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/2168718/pexels-photo-2168718.jpeg"
+  },
+  {
+    "name": "Navy Pier",
+    "description": "Navy Pier is a vibrant, lakeside destination offering entertainment, dining, and attractions for the whole family. Visitors can ride the Ferris wheel, explore museums like the Chicago Children's Museum, or take a boat tour along Lake Michigan for panoramic views of the city skyline.",
+    "attractionTags": ["ENTERTAINMENT", "FAMILY", "SCENIC", "LANDMARK"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/1365180/pexels-photo-1365180.jpeg"
+  },
+  {
+    "name": "The Art Institute of Chicago",
+    "description": "The Art Institute of Chicago is one of the oldest and largest art museums in the United States. It boasts an extensive collection, from ancient art to modern masterpieces, including works by Van Gogh, Monet, and Grant Wood. The museum’s architecture, including the famous bronze lion statues, is also a highlight.",
+    "attractionTags": ["ART", "MUSEUM", "CULTURE", "EDUCATIONAL"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/1563259/pexels-photo-1563259.jpeg"
+  },
+  {
+    "name": "Shedd Aquarium",
+    "description": "Shedd Aquarium is one of the most renowned aquariums in the world, featuring thousands of aquatic animals from around the globe. Visitors can explore exhibits on marine life, including penguins, dolphins, and sharks. The Wild Reef exhibit is particularly popular for its diverse underwater species.",
+    "attractionTags": ["NATURE", "EDUCATIONAL", "FAMILY", "ENTERTAINMENT"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/20627324/pexels-photo-20627324/free-photo-of-the-shedd-aquarium-building-chicago-usa.jpeg"
+  },
+  {
+    "name": "The Field Museum",
+    "description": "The Field Museum is a natural history museum renowned for its vast exhibits on life on Earth. Home to ‘Sue,’ the most complete T. rex skeleton ever found, the museum also offers exhibits on ancient civilizations, gems, and human biology. It's an educational destination for all ages.",
+    "attractionTags": ["SCIENCE", "MUSEUM", "EDUCATIONAL", "HISTORY"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/28948289/pexels-photo-28948289/free-photo-of-aerial-view-of-chicago-skyline-and-lakefront.jpeg"
+  },
+  {
+    "name": "Chicago Riverwalk",
+    "description": "The Chicago Riverwalk is a scenic pathway along the Chicago River, offering beautiful views of the city’s architecture. It’s a popular spot for walking, dining, and relaxing. You can also take riverboat tours to learn about the city’s history and iconic buildings while enjoying the fresh air.",
+    "attractionTags": ["WALKING", "SCENIC", "ENTERTAINMENT", "PHOTOGRAPHY"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/30258562/pexels-photo-30258562/free-photo-of-scenic-view-of-chicago-river-at-twilight.jpeg"
+  },
+  {
+    "name": "Lincoln Park Zoo",
+    "description": "Lincoln Park Zoo is one of the oldest zoos in the United States, offering free admission to see more than 1,100 animals from around the world. Located in Lincoln Park, it is a perfect place for families and animal lovers. The zoo’s historic design and beautiful gardens make it a great spot to spend the day.",
+    "attractionTags": ["FAMILY", "NATURE", "ENTERTAINMENT", "ZOO"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/919188/pexels-photo-919188.jpeg"
+  },
+  {
+    "name": "Adler Planetarium",
+    "description": "The Adler Planetarium is America’s first planetarium and offers an immersive experience in the world of astronomy and space science. It features interactive exhibits, a large domed sky theater, and stunning views of the Chicago skyline. Visitors can learn about the stars, planets, and the universe in an engaging way.",
+    "attractionTags": ["SCIENCE", "EDUCATIONAL", "MUSEUM", "ENTERTAINMENT"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/28948278/pexels-photo-28948278/free-photo-of-aerial-view-of-adler-planetarium-chicago.jpeg"
+  },
+  {
+    "name": "Grant Park",
+    "description": "Grant Park, often referred to as 'Chicago’s front yard,' is a large urban park located in the heart of downtown. It is home to many of the city’s most famous landmarks, including the Buckingham Fountain and the Art Institute of Chicago. The park hosts various cultural events, festivals, and concerts throughout the year.",
+    "attractionTags": ["NATURE", "SCENIC", "FAMILY", "LANDMARK"],
+    "city": "Chicago",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/17661149/pexels-photo-17661149/free-photo-of-buckingham-fountain-behind-street-in-chicago-usa.jpeg"
+  },
+  {
+    "name": "Griffith Observatory",
+    "description": "The Griffith Observatory is one of Los Angeles' most famous landmarks, offering breathtaking views of the city and the Hollywood Sign. Visitors can explore interactive exhibits, look through telescopes, and enjoy panoramic views of the skyline and stars. It's a great spot for astronomy enthusiasts and anyone seeking a scenic view of LA.",
+    "attractionTags": ["SCIENCE", "NATURE", "SCENIC", "PHOTOGRAPHY"],
+    "city": "Los Angeles",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/8783536/pexels-photo-8783536.jpeg"
+  },
+  {
+    "name": "Hollywood Walk of Fame",
+    "description": "The Hollywood Walk of Fame is a world-renowned sidewalk that stretches over 15 blocks along Hollywood Boulevard. With more than 2,600 brass stars embedded in the pavement, it honors the achievements of celebrities in film, television, music, and radio. Visitors flock here to take photos with the stars of their favorite icons.",
+    "attractionTags": ["LANDMARK", "ENTERTAINMENT", "CULTURE", "PHOTOGRAPHY"],
+    "city": "Los Angeles",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/4700108/pexels-photo-4700108.jpeg"
+  },
+  {
+    "name": "Universal Studios Hollywood",
+    "description": "Universal Studios Hollywood is a thrilling theme park and movie studio, offering a behind-the-scenes look at Hollywood movie magic. Visitors can enjoy exciting rides, shows, and attractions based on popular films like Harry Potter, Jurassic Park, and Transformers. It's a fun destination for families and movie lovers alike.",
+    "attractionTags": ["ENTERTAINMENT", "FAMILY", "ADVENTURE", "THEATRE"],
+    "city": "Los Angeles",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/10993195/pexels-photo-10993195.jpeg"
+  },
+  {
+    "name": "The Getty Center",
+    "description": "The Getty Center is an impressive art museum situated on a hilltop in Los Angeles, offering stunning views of the city. The museum's collection includes European paintings, sculptures, and decorative arts, as well as photography and contemporary art. The Getty’s architecture and gardens are also worth a visit.",
+    "attractionTags": ["ART", "MUSEUM", "CULTURE", "SCENIC"],
+    "city": "Los Angeles",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/27507141/pexels-photo-27507141/free-photo-of-getty-center.jpeg"
+  },
+  {
+    "name": "Santa Monica Pier",
+    "description": "The Santa Monica Pier is a historic landmark and popular seaside amusement area. It features an iconic Ferris wheel, an aquarium, restaurants, and a family-friendly atmosphere. The pier offers stunning views of the Pacific Ocean, making it a great place to relax, walk, or enjoy a fun day by the beach.",
+    "attractionTags": ["ENTERTAINMENT", "SCENIC", "FAMILY", "NATURE"],
+    "city": "Los Angeles",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/2788806/pexels-photo-2788806.jpeg"
+  },
+  {
+    "name": "Rodeo Drive",
+    "description": "Rodeo Drive is one of the most famous shopping streets in the world, known for its luxury boutiques, designer shops, and high-end brands. Located in Beverly Hills, this glamorous street is a must-visit for those interested in upscale shopping or simply wanting to experience the opulence of LA’s fashion district.",
+    "attractionTags": ["SHOPPING", "CULTURE", "ENTERTAINMENT", "LANDMARK"],
+    "city": "Los Angeles",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/5402906/pexels-photo-5402906.jpeg"
+  },
+  {
+    "name": "Venice Beach",
+    "description": "Venice Beach is a laid-back, eclectic neighborhood that’s famous for its vibrant boardwalk, skate park, and Muscle Beach gym. Visitors can watch street performers, shop for unique items at local vendors, or rent bikes and rollerblades to cruise along the beach. It’s a perfect destination for people-watching and enjoying California’s coastal lifestyle.",
+    "attractionTags": ["NATURE", "ENTERTAINMENT", "WALKING", "PHOTOGRAPHY"],
+    "city": "Los Angeles",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/1412235/pexels-photo-1412235.jpeg"
+  },
+  {
+    "name": "The Strip",
+    "description": "The Las Vegas Strip is the heart of the city, known for its vibrant lights, luxury resorts, and world-class entertainment. Stretching over 4 miles, it’s lined with famous hotels, casinos, and attractions like the Bellagio Fountains, Paris Las Vegas Eiffel Tower, and the Luxor Pyramid. A must-visit for anyone experiencing Las Vegas.",
+    "attractionTags": ["LANDMARK", "ENTERTAINMENT", "NIGHTLIFE", "CULTURE"],
+    "city": "Las Vegas",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/2837909/pexels-photo-2837909.jpeg"
+  },
+  {
+    "name": "Bellagio Fountains",
+    "description": "The Bellagio Fountains are one of the most iconic attractions on the Las Vegas Strip. Located in front of the Bellagio Hotel, these choreographed water shows feature fountains that dance to music and lights. Shows are free to watch and take place every 15-30 minutes in the evenings, offering a mesmerizing display for all visitors.",
+    "attractionTags": ["ENTERTAINMENT", "LANDMARK", "PHOTOGRAPHY", "NIGHTLIFE"],
+    "city": "Las Vegas",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/28207239/pexels-photo-28207239/free-photo-of-bellagio-fountain-show.jpeg"
+  },
+  {
+    "name": "Fremont Street Experience",
+    "description": "Fremont Street Experience is an iconic pedestrian mall in downtown Las Vegas, famous for its massive LED canopy that displays vibrant light shows. The street is lined with casinos, restaurants, and live entertainment, offering a retro feel with modern attractions. It’s the perfect place for nightlife, excitement, and unique experiences.",
+    "attractionTags": ["NIGHTLIFE", "ENTERTAINMENT", "CULTURE", "LANDMARK"],
+    "city": "Las Vegas",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/19045720/pexels-photo-19045720/free-photo-of-light-show-in-city-at-night.jpeg"
+  },
+  {
+    "name": "The Venetian",
+    "description": "The Venetian Resort is a luxurious hotel and casino that brings the beauty of Venice, Italy, to the heart of Las Vegas. Visitors can take a gondola ride through the indoor canals, stroll under the replica of St. Mark's Square, and experience world-class shopping and dining, all while being surrounded by opulent Venetian-inspired architecture.",
+    "attractionTags": ["LANDMARK", "ENTERTAINMENT", "CULTURE", "SHOPPING"],
+    "city": "Las Vegas",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/16571234/pexels-photo-16571234/free-photo-of-gondolas-on-canal-in-las-vegas.jpeg"
+  },
+  {
+    "name": "High Roller Observation Wheel",
+    "description": "The High Roller is the world’s tallest observation wheel, standing 550 feet above the Las Vegas Strip. Offering breathtaking 360-degree views of the city, the wheel is equipped with glass-enclosed cabins that provide a comfortable and unique experience. It’s the perfect place to catch a stunning sunset or a nighttime view of the Strip.",
+    "attractionTags": ["SCENIC", "LANDMARK", "PHOTOGRAPHY", "ENTERTAINMENT"],
+    "city": "Las Vegas",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/2316781/pexels-photo-2316781.jpeg"
+  },
+  {
+    "name": "Space Needle",
+    "description": "The Space Needle is one of Seattle’s most iconic landmarks. Standing at 605 feet, it offers breathtaking 360-degree views of the city, Puget Sound, and the surrounding mountains. Visitors can enjoy the view from the observation deck or dine at the revolving restaurant for a truly unique experience.",
+    "attractionTags": ["LANDMARK", "SCENIC", "PHOTOGRAPHY", "SKYSCRAPER"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/3964406/pexels-photo-3964406.jpeg"
+  },
+  {
+    "name": "Pike Place Market",
+    "description": "Pike Place Market is a bustling, historic market located on the waterfront. It’s famous for its fresh seafood, vibrant flowers, artisan goods, and street performers. Visitors can watch the famous fishmongers throw fish, explore quirky shops, and sample delicious local food from a variety of eateries.",
+    "attractionTags": ["CULTURE", "FOOD", "SHOPPING", "ENTERTAINMENT"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/28614062/pexels-photo-28614062/free-photo-of-iconic-pike-place-market-sign-in-seattle-at-dusk.jpeg"
+  },
+  {
+    "name": "Chihuly Garden and Glass",
+    "description": "Chihuly Garden and Glass is a mesmerizing exhibit showcasing the stunning glass art of Dale Chihuly. Located next to the Space Needle, the exhibit features breathtaking installations both indoors and outdoors, blending art with nature. It’s a visual experience that’s both tranquil and vibrant.",
+    "attractionTags": ["ART", "CULTURE", "MUSEUM", "PHOTOGRAPHY"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/632270/pexels-photo-632270.jpeg"
+  },
+  {
+    "name": "Seattle Aquarium",
+    "description": "The Seattle Aquarium offers an immersive experience into the marine life of the Pacific Northwest. Visitors can explore exhibits featuring local marine species, including sea otters, harbor seals, and anemones. It’s a fun and educational stop for families and animal lovers alike.",
+    "attractionTags": ["NATURE", "FAMILY", "EDUCATIONAL", "ENTERTAINMENT"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/29936827/pexels-photo-29936827/free-photo-of-seattle-aquarium-along-scenic-waterfront-views.jpeg"
+  },
+  {
+    "name": "Museum of Pop Culture (MoPOP)",
+    "description": "The Museum of Pop Culture (MoPOP) is a dynamic museum celebrating pop culture through exhibits on music, movies, video games, and more. From the legacy of Jimi Hendrix to the Star Trek universe, MoPOP offers a fascinating and interactive experience for visitors of all ages.",
+    "attractionTags": ["MUSEUM", "ENTERTAINMENT", "CULTURE", "EDUCATIONAL"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/9382899/pexels-photo-9382899.jpeg"
+  },
+  {
+    "name": "Seattle Art Museum (SAM)",
+    "description": "The Seattle Art Museum (SAM) is one of the premier art museums in the Pacific Northwest, offering diverse collections that span centuries and continents. From African art to contemporary pieces, SAM is a cultural hub for art lovers and a place for inspiring and thought-provoking exhibitions.",
+    "attractionTags": ["ART", "MUSEUM", "CULTURE", "EDUCATIONAL"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1653682211141-a0b6b5e1d497?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Discovery Park",
+    "description": "Discovery Park is Seattle’s largest green space, offering 534 acres of forested trails, beaches, and scenic views. Visitors can hike through lush woods, enjoy panoramic views of the Puget Sound and Olympic Mountains, or visit the West Point Lighthouse. It’s the perfect spot for nature lovers and outdoor enthusiasts.",
+    "attractionTags": ["OUTDOOR", "NATURE", "SCENIC", "WALKING"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1458600191246-6b1d2ee2758e?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Seattle Great Wheel",
+    "description": "The Seattle Great Wheel is a 175-foot-tall Ferris wheel located on the waterfront. It offers stunning views of Elliott Bay, the Seattle skyline, and the surrounding mountains. With glass-enclosed gondolas and both daytime and nighttime rides, it’s a great way to take in the beauty of Seattle from above.",
+    "attractionTags": ["SCENIC", "PHOTOGRAPHY", "ENTERTAINMENT", "LANDMARK"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/18734472/pexels-photo-18734472/free-photo-of-ferris-wheel-in-seattle.jpeg"
+  },
+  {
+    "name": "Olympic Sculpture Park",
+    "description": "The Olympic Sculpture Park is an outdoor extension of the Seattle Art Museum, offering free access to a collection of large-scale sculptures set against the backdrop of Puget Sound. It’s a beautiful blend of art, nature, and stunning waterfront views, perfect for an afternoon stroll or a picnic.",
+    "attractionTags": ["ART", "OUTDOOR", "SCENIC", "PHOTOGRAPHY"],
+    "city": "Seattle",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1677444819511-8d3f007e342f?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Woodland Park Zoo",
+    "description": "The Woodland Park Zoo is home to more than 1,000 animals from around the world, housed in naturalistic exhibits. Visitors can see animals ranging from African elephants to polar bears, as well as enjoy lush gardens and interactive learning opportunities. It's a great family destination for animal lovers of all ages.",
+    "attractionTags": ["ZOO", "NATURE", "FAMILY", "EDUCATIONAL"],
+    "city": "Seattle",
+    "country": "USA"
+  },
+  {
+    "name": "National Mall",
+    "description": "The National Mall is a vast, open park in the heart of Washington, D.C., surrounded by iconic monuments and memorials, including the Washington Monument and Lincoln Memorial. It is a place for reflection, history, and patriotism, offering a scenic setting for visitors to explore the country’s most important landmarks.",
+    "attractionTags": ["LANDMARK", "HISTORY", "SCENIC", "MEMORIAL"],
+    "city": "Washington DC",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/208766/pexels-photo-208766.jpeg"
+  },
+  {
+    "name": "The White House",
+    "description": "The White House is the official residence and workplace of the President of the United States. While the interior is not open to the public, visitors can view the exterior and surrounding gardens from the outside. It remains one of the most recognizable and historically significant buildings in the United States.",
+    "attractionTags": ["LANDMARK", "HISTORY", "MEMORIAL", "CULTURE"],
+    "city": "Washington DC",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/16701076/pexels-photo-16701076/free-photo-of-the-white-house.jpeg"
+  },
+  {
+    "name": "Smithsonian National Museum of American History",
+    "description": "The Smithsonian National Museum of American History is a treasure trove of the United States’ past, offering exhibits on everything from the founding of the nation to the Civil Rights Movement. Key exhibits include the original Star-Spangled Banner and the First Ladies’ Inaugural Gowns.",
+    "attractionTags": ["MUSEUM", "EDUCATIONAL", "HISTORY", "CULTURE"],
+    "city": "Washington DC",
+    "country": "USA"
+  },
+  {
+    "name": "Lincoln Memorial",
+    "description": "The Lincoln Memorial is one of the most recognizable landmarks in Washington, D.C., dedicated to the 16th President of the United States, Abraham Lincoln. The monument’s steps are a place of reflection and historical significance, and it has been the site of many important speeches, including Martin Luther King Jr.'s 'I Have a Dream' speech.",
+    "attractionTags": ["LANDMARK", "HISTORY", "MEMORIAL", "CULTURE"],
+    "city": "Washington DC",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/161892/memorial-lincoln-president-monument-161892.jpeg"
+  },
+  {
+    "name": "United States Capitol",
+    "description": "The United States Capitol is the seat of the U.S. Congress and one of the most significant political landmarks in the country. Visitors can take guided tours to learn about the legislative process, U.S. history, and the Capitol’s role in the American government.",
+    "attractionTags": ["HISTORY", "LANDMARK", "MEMORIAL", "EDUCATIONAL"],
+    "city": "Washington DC",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/11563773/pexels-photo-11563773.jpeg"
+  },
+  {
+    "name": "National Air and Space Museum",
+    "description": "The National Air and Space Museum is part of the Smithsonian Institution and houses the largest collection of historic aircraft and spacecraft in the world. Visitors can explore the history of flight and space exploration, from the Wright Brothers’ first flight to the Apollo moon landing.",
+    "attractionTags": ["MUSEUM", "EDUCATIONAL", "SCIENCE", "HISTORY"],
+    "city": "Washington DC",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/4838000/pexels-photo-4838000.jpeg"
+  },
+  {
+    "name": "The National Gallery of Art",
+    "description": "The National Gallery of Art is home to a world-renowned collection of European and American art, from the Middle Ages to modern works. It includes masterpieces by artists such as Leonardo da Vinci, Rembrandt, and Van Gogh. The museum is divided into two main buildings, East and West, with beautiful sculptures and gardens.",
+    "attractionTags": ["ART", "MUSEUM", "CULTURE", "EDUCATIONAL"],
+    "city": "Washington DC",
+    "country": "USA"
+  },
+  {
+    "name": "Tidal Basin",
+    "description": "The Tidal Basin is a beautiful, serene spot located near the National Mall, especially famous for its cherry blossom trees that bloom each spring. Visitors can take a stroll around the basin, rent paddleboats, and enjoy views of the Jefferson Memorial and the Washington Monument.",
+    "attractionTags": ["SCENIC", "NATURE", "WALKING", "CULTURE"],
+    "city": "Washington DC",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/11732297/pexels-photo-11732297.jpeg"
+  },
+  {
+    "name": "Martin Luther King Jr. Memorial",
+    "description": "The Martin Luther King Jr. Memorial honors the civil rights leader and his role in the American civil rights movement. The monument features a 30-foot statue of Dr. King and inscribed quotes from his speeches. It stands as a symbol of peace, justice, and equality.",
+    "attractionTags": ["MEMORIAL", "HISTORY", "CULTURE", "LANDMARK"],
+    "city": "Washington DC",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/5214869/pexels-photo-5214869.jpeg"
+  },
+  {
+    "name": "Washington National Cathedral",
+    "description": "The Washington National Cathedral is a stunning Gothic-style cathedral and one of the largest in the United States. Visitors can admire its intricate architecture, stained glass windows, and peaceful gardens. It is also a site of major national events, including state funerals and memorial services.",
+    "attractionTags": ["ARCHITECTURE", "CULTURE", "LANDMARK", "HISTORY"],
+    "city": "Washington DC",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/28833674/pexels-photo-28833674/free-photo-of-majestic-washington-national-cathedral-exterior.jpeg"
+  },
+  {
+    "name": "South Beach",
+    "description": "South Beach is Miami’s most famous beach destination, known for its beautiful white sand, vibrant nightlife, and iconic Art Deco architecture. Visitors can relax by the ocean, stroll along Ocean Drive, or enjoy a variety of restaurants, cafes, and bars. It’s a hotspot for sunbathing, people-watching, and beach sports.",
+    "attractionTags": ["NATURE", "BEACH", "SCENIC", "NIGHTLIFE"],
+    "city": "Miami",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/15282267/pexels-photo-15282267/free-photo-of-pink-lifeguard-tower-in-miami-usa.jpeg"
+  },
+  {
+    "name": "Wynwood Walls",
+    "description": "Wynwood Walls is an outdoor museum showcasing large-scale murals by internationally renowned street artists. Located in the Wynwood Arts District, this vibrant collection of urban art has become a cultural hub for creativity and expression, with surrounding galleries, restaurants, and shops to explore.",
+    "attractionTags": ["ART", "CULTURE", "PHOTOGRAPHY", "MUSEUM"],
+    "city": "Miami",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/2935244/pexels-photo-2935244.jpeg"
+  },
+  {
+    "name": "Little Havana",
+    "description": "Little Havana is Miami’s Cuban heart, a lively neighborhood filled with Latin culture, colorful murals, and delicious Cuban food. Visitors can explore vibrant streets, visit local markets, dance to live music, or sip Cuban coffee at a café. The Calle Ocho festival and cigar shops make this area even more unique.",
+    "attractionTags": ["CULTURE", "FOOD", "SHOPPING", "ENTERTAINMENT"],
+    "city": "Miami",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/29495142/pexels-photo-29495142/free-photo-of-colorful-little-havana-mural-in-miami.jpeg"
+  },
+  {
+    "name": "Vizcaya Museum and Gardens",
+    "description": "Vizcaya Museum and Gardens is a historic mansion built in the early 20th century, offering visitors a glimpse into Miami’s past. The museum features exquisite European-style architecture and beautifully landscaped gardens. It’s an idyllic spot for a walk and a perfect setting for photography.",
+    "attractionTags": ["HISTORY", "ART", "ARCHITECTURE", "SCENIC"],
+    "city": "Miami",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/12358457/pexels-photo-12358457.jpeg"
+  },
+  {
+    "name": "Miami Seaquarium",
+    "description": "The Miami Seaquarium is one of the oldest marine life parks in the United States, offering educational exhibits and live animal shows. Visitors can watch dolphins, sea lions, and even killer whales perform, or explore the park’s aquariums to learn about marine life in the region.",
+    "attractionTags": ["ZOO", "NATURE", "FAMILY", "EDUCATIONAL"],
+    "city": "Miami",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1566575007302-d1bd5a157fdf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Miami Design District",
+    "description": "The Miami Design District is a trendy, upscale neighborhood known for its luxury boutiques, art galleries, and design showrooms. Visitors can explore cutting-edge architecture, enjoy world-class dining, or simply stroll through public art installations and stylish outdoor spaces.",
+    "attractionTags": ["SHOPPING", "ART", "CULTURE", "ARCHITECTURE"],
+    "city": "Miami",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/156645/pexels-photo-156645.jpeg"
+  },
+  {
+    "name": "Bayfront Park",
+    "description": "Bayfront Park is a large public park in downtown Miami, offering a scenic location along Biscayne Bay. It features walking paths, gardens, and a beautiful amphitheater that hosts concerts and events. It’s a popular place for locals and tourists to relax, enjoy the views, or attend outdoor festivals.",
+    "attractionTags": ["OUTDOOR", "SCENIC", "ENTERTAINMENT", "WALKING"],
+    "city": "Miami",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/9400825/pexels-photo-9400825.jpeg"
+  },
+  {
+    "name": "Jungle Island",
+    "description": "Jungle Island is a wildlife park that combines interactive exhibits with thrilling animal shows. It offers a chance to get up close with exotic species, including lemurs, parrots, and tigers. The park also features a range of adventure activities like ziplining and obstacle courses, making it a fun family destination.",
+    "attractionTags": ["ZOO", "FAMILY", "EDUCATIONAL", "ENTERTAINMENT"],
+    "city": "Miami",
+    "country": "USA"
+  },
+  {
+    "name": "Coconut Grove",
+    "description": "Coconut Grove is Miami’s oldest neighborhood, offering a mix of laid-back charm and cultural vibrancy. Visitors can explore boutique shops, art galleries, and beautiful outdoor spaces like Peacock Park. It’s an ideal spot for dining and enjoying the natural beauty of the area, with nearby waterfront views.",
+    "attractionTags": ["CULTURE", "SHOPPING", "ENTERTAINMENT", "SCENIC"],
+    "city": "Miami",
+    "country": "USA"
+  },
+  {
+    "name": "The Wolfsonian-FIU",
+    "description": "The Wolfsonian-FIU is a unique museum in the heart of Miami Beach, dedicated to design and decorative arts from the late 19th century to the mid-20th century. Its diverse collection spans industrial design, propaganda, and American culture, offering visitors an engaging experience of art and history.",
+    "attractionTags": ["ART", "MUSEUM", "CULTURE", "EDUCATIONAL"],
+    "city": "Miami",
+    "country": "USA"
+  },
+  {
+    "name": "Walt Disney World Resort",
+    "description": "Walt Disney World Resort is the world’s most visited entertainment complex, consisting of four major theme parks: Magic Kingdom, EPCOT, Disney’s Hollywood Studios, and Disney’s Animal Kingdom. Visitors can enjoy rides, meet beloved characters, and experience the magic of Disney in its many immersive worlds.",
+    "attractionTags": ["FAMILY", "ENTERTAINMENT", "ADVENTURE", "THEATRE"],
+    "city": "Orlando",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/12569769/pexels-photo-12569769.jpeg"
+  },
+  {
+    "name": "Universal Studios Florida",
+    "description": "Universal Studios Florida is a famous theme park that offers thrilling rides and attractions based on popular films. From Harry Potter’s Wizarding World to Jurassic Park, visitors can enjoy immersive experiences, live shows, and adrenaline-pumping rides. It’s perfect for fans of movies, fantasy, and adventure.",
+    "attractionTags": ["ADVENTURE", "ENTERTAINMENT", "FAMILY", "THEATRE"],
+    "city": "Orlando",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/9400905/pexels-photo-9400905.jpeg"
+  },
+  {
+    "name": "The Wizarding World of Harry Potter",
+    "description": "The Wizarding World of Harry Potter is a magical theme park experience that brings the world of Hogwarts and Diagon Alley to life. Visitors can explore iconic locations from the Harry Potter series, try butterbeer, and experience thrilling rides like Harry Potter and the Escape from Gringotts.",
+    "attractionTags": ["ENTERTAINMENT", "ADVENTURE", "FAMILY", "THEATRE"],
+    "city": "Orlando",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/3359734/pexels-photo-3359734.jpeg"
+  },
+  {
+    "name": "EPCOT",
+    "description": "EPCOT is a theme park at Walt Disney World Resort that focuses on science, technology, and global culture. It features the Future World with innovative exhibits on space, energy, and transportation, and the World Showcase, which highlights the cultures of 11 different countries. It’s an educational and fun experience for all ages.",
+    "attractionTags": ["EDUCATION", "CULTURE", "ENTERTAINMENT", "FAMILY"],
+    "city": "Orlando",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/29233462/pexels-photo-29233462/free-photo-of-spaceship-earth-at-epcot-center-during-daytime.jpeg"
+  },
+  {
+    "name": "Disney's Animal Kingdom",
+    "description": "Disney's Animal Kingdom is a unique theme park that blends wildlife conservation with thrilling attractions. Visitors can explore Safari rides, encounter exotic animals, and experience immersive themed areas like Pandora – The World of Avatar. It’s a family-friendly park that combines adventure with education.",
+    "attractionTags": ["FAMILY", "ADVENTURE", "NATURE", "ENTERTAINMENT"],
+    "city": "Orlando",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/8183881/pexels-photo-8183881.jpeg"
+  },
+  {
+    "name": "SeaWorld Orlando",
+    "description": "SeaWorld Orlando is a marine life theme park that features exciting rides, animal shows, and interactive exhibits. Visitors can enjoy getting up close to dolphins, orcas, and sea lions, or experience thrilling roller coasters like Mako. The park emphasizes marine conservation and education.",
+    "attractionTags": ["ZOO", "EDUCATIONAL", "ENTERTAINMENT", "FAMILY"],
+    "city": "Orlando",
+    "country": "USA"
+  },
+  {
+    "name": "ICON Park",
+    "description": "ICON Park is a 20-acre entertainment complex located on International Drive. Its centerpiece is The Wheel, a 400-foot-tall observation wheel that offers stunning views of Orlando. The park also features restaurants, shops, and attractions such as Madame Tussauds and SEA LIFE Orlando Aquarium.",
+    "attractionTags": ["ENTERTAINMENT", "SCENIC", "SHOPPING", "FAMILY"],
+    "city": "Orlando",
+    "country": "USA",
+    "imageUrl": "https://images.pexels.com/photos/8186852/pexels-photo-8186852.jpeg"
+  },
+  {
+    "name": "Legoland Florida Resort",
+    "description": "Legoland Florida Resort is a family-friendly theme park that caters to younger children with interactive rides, LEGO-themed attractions, and educational exhibits. The park features a water park, themed lands, and even a mini-land with iconic landmarks built entirely from LEGOs.",
+    "attractionTags": ["FAMILY", "ENTERTAINMENT", "ADVENTURE", "EDUCATIONAL"],
+    "city": "Orlando",
+    "country": "USA"
+  },
+  {
+    "name": "Kennedy Space Center Visitor Complex",
+    "description": "The Kennedy Space Center Visitor Complex offers an inspiring and educational experience with exhibits on space exploration and NASA missions. Visitors can see actual spacecraft, meet astronauts, and even experience the Space Shuttle Atlantis exhibit. It’s a must-see for space enthusiasts and families alike.",
+    "attractionTags": ["EDUCATIONAL", "SCIENCE", "HISTORY", "ENTERTAINMENT"],
+    "city": "Orlando",
+    "country": "USA",
+    "imageUrl": "https://images.unsplash.com/photo-1649605551155-b64ed2274043?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

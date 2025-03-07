@@ -1,0 +1,212 @@
+[
+  {
+    "country": "USA",
+    "city": "New York City",
+    "imageUrl": "https://images.unsplash.com/photo-1538970272646-f61fabb3a8a2",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "San Francisco",
+    "imageUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "Chicago",
+    "imageUrl": "https://images.unsplash.com/photo-1494522855154-9297ac14b55f",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "Los Angeles",
+    "imageUrl": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "Las Vegas",
+    "imageUrl": "https://images.unsplash.com/photo-1581351721010-8cf859cb14a4",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "Seattle",
+    "imageUrl": "https://images.unsplash.com/photo-1502175353174-a7a70e73b362",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "Miami",
+    "imageUrl": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "Washington DC",
+    "imageUrl": "https://images.unsplash.com/photo-1501466044931-62695aada8e9",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "New Orleans",
+    "imageUrl": "https://images.unsplash.com/photo-1571893544028-06b07af6dade",
+    "countryCode": "US"
+  },
+  {
+    "country": "USA",
+    "city": "Orlando",
+    "imageUrl": "https://images.unsplash.com/photo-1539886075737-7a69d4c28c33",
+    "countryCode": "US"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "GB"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Edinburgh",
+    "imageUrl": "https://images.unsplash.com/photo-1506377585622-bedcbb027afc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "GB"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Manchester",
+    "imageUrl": "https://images.unsplash.com/photo-1515586838455-8f8f940d6853?q=80&w=1993&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "GB"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Liverpool",
+    "imageUrl": "https://images.pexels.com/photos/2536478/pexels-photo-2536478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "GB"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Bath",
+    "imageUrl": "https://images.pexels.com/photos/4577640/pexels-photo-4577640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "GB"
+  },
+  {
+    "country": "Canada",
+    "city": "Toronto",
+    "imageUrl": "https://images.unsplash.com/photo-1490623970972-ae8bb3da443e?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "CA"
+  },
+  {
+    "country": "Canada",
+    "city": "Vancouver",
+    "imageUrl": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "CA"
+  },
+  {
+    "country": "Canada",
+    "city": "Montreal",
+    "imageUrl": "https://images.unsplash.com/photo-1575540576545-3db8561c29e4?q=80&w=2051&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "CA"
+  },
+  {
+    "country": "Canada",
+    "city": "Ottawa",
+    "imageUrl": "https://images.pexels.com/photos/7328/building-architecture-historical-tower.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "CA"
+  },
+  {
+    "country": "Canada",
+    "city": "Quebec City",
+    "imageUrl": "https://images.unsplash.com/photo-1687440758850-d2c3c4a6ee2c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "CA"
+  },
+  {
+    "country": "Australia",
+    "city": "Sydney",
+    "imageUrl": "https://images.pexels.com/photos/2193300/pexels-photo-2193300.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "AU"
+  },
+  {
+    "country": "Australia",
+    "city": "Melbourne",
+    "imageUrl": "https://images.unsplash.com/photo-1545044846-351ba102b6d5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "AU"
+  },
+  {
+    "country": "Australia",
+    "city": "Brisbane",
+    "imageUrl": "https://images.pexels.com/photos/2314922/pexels-photo-2314922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "AU"
+  },
+  {
+    "country": "Australia",
+    "city": "Perth",
+    "imageUrl": "https://images.unsplash.com/photo-1524586410818-196d249560e4?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "AU"
+  },
+  {
+    "country": "Australia",
+    "city": "Cairns",
+    "imageUrl": "https://images.unsplash.com/photo-1676406912249-8bdefd0a706d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "AU"
+  },
+  {
+    "country": "India",
+    "city": "New Delhi",
+    "imageUrl": "https://images.pexels.com/photos/13238814/pexels-photo-13238814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "IN"
+  },
+  {
+    "country": "India",
+    "city": "Mumbai",
+    "imageUrl": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "IN"
+  },
+  {
+    "country": "India",
+    "city": "Jaipur",
+    "imageUrl": "https://images.pexels.com/photos/784879/pexels-photo-784879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "IN"
+  },
+  {
+    "country": "India",
+    "city": "Bengaluru",
+    "imageUrl": "https://images.pexels.com/photos/739987/pexels-photo-739987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "IN"
+  },
+  {
+    "country": "India",
+    "city": "Chennai",
+    "imageUrl": "https://images.pexels.com/photos/6667281/pexels-photo-6667281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "IN"
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "imageUrl": "https://images.unsplash.com/photo-1524396309943-e03f5249f002?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "countryCode": "FR"
+  },
+  {
+    "country": "France",
+    "city": "Nice",
+    "imageUrl": "https://images.pexels.com/photos/3016350/pexels-photo-3016350.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "FR"
+  },
+  {
+    "country": "France",
+    "city": "Lyon",
+    "imageUrl": "https://images.pexels.com/photos/8430273/pexels-photo-8430273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "FR"
+  },
+  {
+    "country": "France",
+    "city": "Marseille",
+    "imageUrl": "https://images.pexels.com/photos/24446019/pexels-photo-24446019/free-photo-of-la-major-cathedral-in-marseilles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "FR"
+  },
+  {
+    "country": "France",
+    "city": "Bordeaux",
+    "imageUrl": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "countryCode": "FR"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "username": "johndoe",
+    "attractionName": "Statue of Liberty",
+    "rating": 5,
+    "comment": "Visiting the Statue of Liberty was an unforgettable experience. The ferry ride offered stunning views of the city, and the statue itself is awe-inspiring. I highly recommend taking the tour to learn about its history and significance. A must-see for anyone visiting NYC!"
+  },
+  {
+    "username": "janesmith",
+    "attractionName": "Statue of Liberty",
+    "rating": 4,
+    "comment": "The Statue of Liberty is a symbol of freedom, and standing at its base is truly humbling. While the crowds can be overwhelming, the views from the pedestal are worth it. Be sure to book your tickets early if you want to access the crown for an even better experience."
+  },
+  {
+    "username": "emilyj",
+    "attractionName": "Statue of Liberty",
+    "rating": 5,
+    "comment": "The Statue of Liberty is a monumental piece of history. The ferry ride was smooth, and the audio guide provided fascinating details about the statue’s creation and meaning. It’s a great spot for taking photos and reflecting on America’s heritage.",
+    "imageUrls" : [
+      "https://images.unsplash.com/photo-1565548126407-4d2346ef2664",
+      "https://images.unsplash.com/photo-1552526490-cd5901ba5682"
+    ]
+  },
+  {
+    "username": "mikeb",
+    "attractionName": "Statue of Liberty",
+    "rating": 5,
+    "comment": "What a majestic sight! The Statue of Liberty is much more impressive in person than in photos. The history behind the statue is rich and moving. I really enjoyed the museum on Liberty Island too. It’s definitely one of the highlights of my NYC trip."
+  },
+  {
+    "username": "sarahd",
+    "attractionName": "Statue of Liberty",
+    "rating": 4,
+    "comment": "While the experience of visiting the Statue of Liberty was fantastic, the long lines for the ferry and security checks can be a bit tiring. However, once you reach the island, the statue and the view are absolutely worth it. It’s definitely a must-do in New York."
+  },
+  {
+    "username": "jamesm",
+    "attractionName": "Central Park",
+    "rating": 5,
+    "comment": "Central Park is a peaceful oasis in the middle of the bustling city. Whether you’re looking for a serene spot to read, a fun place to people-watch, or a place to enjoy nature, it has it all. The boat ride on the lake and the zoo are also fun activities."
+  },
+  {
+    "username": "oliviaw",
+    "attractionName": "Central Park",
+    "rating": 5,
+    "comment": "Central Park is one of my favorite spots in NYC. It’s hard to believe that such a large and beautiful park exists in the heart of the city. From the iconic Bow Bridge to the picturesque Bethesda Terrace, there’s something magical about every corner of the park."
+  },
+  {
+    "username": "williama",
+    "attractionName": "Central Park",
+    "rating": 4,
+    "comment": "Central Park is a must-visit if you're in New York. It offers a perfect escape from the hectic pace of the city. I especially loved walking through Strawberry Fields and the Conservatory Garden. The only downside is that it can get crowded on weekends, especially during the summer.",
+    "imageUrls" : [
+      "https://images.unsplash.com/photo-1693879728390-ed64d3dad762",
+      "https://images.unsplash.com/photo-1666111201424-7528d9ac0850"
+    ]
+  },
+  {
+    "username": "sophiat",
+    "attractionName": "Central Park",
+    "rating": 5,
+    "comment": "A stroll through Central Park is a wonderful way to relax and take in some greenery in the middle of the city. The park is so diverse, with something new to discover at every turn. My favorite part was the Central Park Mall with its beautiful rows of trees. A peaceful retreat!"
+  },
+  {
+    "username": "mikeb",
+    "attractionName": "Central Park",
+    "rating": 4,
+    "comment": "I had a lovely time in Central Park. It’s a great place to go for a run, have a picnic, or just relax. There are so many activities to do, from boating to cycling. However, it does get quite crowded, especially during the tourist season, which can sometimes detract from the experience."
+  },
+  {
+    "username": "johndoe",
+    "attractionName": "The Metropolitan Museum of Art",
+    "rating": 5,
+    "comment": "The Met is an incredible museum with an extensive collection that spans thousands of years of art history. Whether you're into ancient civilizations, European paintings, or modern art, there's something for everyone. I was particularly impressed by the Egyptian collection and the Temple of Dendur."
+  },
+  {
+    "username": "janesmith",
+    "attractionName": "The Metropolitan Museum of Art",
+    "rating": 5,
+    "comment": "I was absolutely blown away by the Met. It’s so much more than a museum—it’s a journey through time. I spent hours exploring the vast galleries, and I still feel like I could have stayed for days. Don’t miss the rooftop garden for amazing views of Central Park!"
+  },
+  {
+    "username": "emilyj",
+    "attractionName": "The Metropolitan Museum of Art",
+    "rating": 4,
+    "comment": "The Metropolitan Museum is a must-see when you're in New York. The sheer size and variety of the collection are mind-blowing. The only downside is that it can be overwhelming to see everything in one visit, so I recommend planning ahead and focusing on specific exhibits."
+  },
+  {
+    "username": "mikeb",
+    "attractionName": "The Metropolitan Museum of Art",
+    "rating": 5,
+    "comment": "The Met is a masterpiece in itself. The collection is so diverse, covering everything from ancient artifacts to contemporary works. The highlights for me were the Impressionist paintings and the stunning arms and armor exhibit. Definitely a top-tier museum!",
+    "imageUrls" : [
+      "https://images.unsplash.com/photo-1579541718334-85e6075516f2"
+    ]
+  },
+  {
+    "username": "sarahd",
+    "attractionName": "The Metropolitan Museum of Art",
+    "rating": 5,
+    "comment": "What an amazing museum! I loved the wide array of art and artifacts. The Egyptian collection was incredible, and I was also blown away by the American Wing. I could have spent an entire day here and still not have seen everything. A true gem in NYC!"
+  },
+  {
+    "username": "johndoe",
+    "attractionName": "Empire State Building",
+    "rating": 5,
+    "comment": "The Empire State Building offers some of the most iconic views of New York City. The observation deck provides a breathtaking panorama of Manhattan. The trip to the top is well worth the price, and the staff was friendly and helpful throughout the visit."
+  },
+  {
+    "username": "janesmith",
+    "attractionName": "Empire State Building",
+    "rating": 4,
+    "comment": "The Empire State Building is a must-see when visiting NYC, but be prepared for long lines. The view from the top is stunning, and there’s a great photo-op with the city skyline. My only complaint was the crowds, which made it a bit less enjoyable than expected.",
+    "imageUrls" : [
+      "https://images.unsplash.com/photo-1555109307-323ee867f3ca",
+      "https://images.unsplash.com/photo-1555109307-a3ce68c7deaf"
+    ]
+  },
+  {
+    "username": "emilyj",
+    "attractionName": "Empire State Building",
+    "rating": 5,
+    "comment": "An iconic New York experience! The Empire State Building offers unparalleled views of the city, especially at sunset. I loved the interactive exhibits and the historical information inside the building. Definitely worth the visit if you’re in NYC!"
+  },
+  {
+    "username": "mikeb",
+    "attractionName": "Empire State Building",
+    "rating": 5,
+    "comment": "Incredible views, great experience! The Empire State Building is everything I hoped it would be. The observation deck offers a fantastic view of the city, and it’s an experience I won’t forget. Try to go at sunset if you can—it’s even more magical then."
+  },
+  {
+    "username": "sarahd",
+    "attractionName": "Empire State Building",
+    "rating": 4,
+    "comment": "A true NYC landmark. The Empire State Building is stunning, especially at night when the city lights come alive. However, be prepared for a bit of a wait to get to the observation deck, and it can get crowded. Still, the view makes it all worthwhile."
+  },
+  {
+    "username": "jamesm",
+    "attractionName": "Times Square",
+    "rating": 5,
+    "comment": "Times Square is electric! The lights, the people, the energy—it’s like nothing else in the world. Walking through it at night, surrounded by giant digital screens and flashing billboards, is a sensory overload in the best way possible. A true New York experience!"
+  },
+  {
+    "username": "oliviaw",
+    "attractionName": "Times Square",
+    "rating": 5,
+    "comment": "Times Square is a must-see for anyone visiting NYC. It's full of life and energy, especially in the evening. The lights and billboards are jaw-dropping. It’s also a great spot for catching a Broadway show, so make sure to plan your visit accordingly."
+  },
+  {
+    "username": "williama",
+    "attractionName": "Times Square",
+    "rating": 4,
+    "comment": "Times Square is iconic, but be ready for huge crowds, especially at night. The lights are amazing, and it’s a great place for people-watching. There are lots of shops and restaurants, but it can feel a little commercial. Still, it's a must-see for any NYC visitor."
+  },
+  {
+    "username": "sophiat",
+    "attractionName": "Times Square",
+    "rating": 5,
+    "comment": "Times Square is everything I imagined it to be. It’s the beating heart of New York City. The lights, the energy, the people—it’s exhilarating! If you’re in NYC, it’s impossible not to get caught up in the excitement. A must-see landmark!"
+  },
+  {
+    "username": "mikeb",
+    "attractionName": "Times Square",
+    "rating": 4,
+    "comment": "Times Square is definitely a must-visit, but it’s also very crowded and touristy. That being said, it’s amazing to see in person, especially the neon lights and big screens. It’s worth a stop, even if just to experience the hustle and bustle of the area.",
+    "imageUrls" : [
+      "https://images.unsplash.com/photo-1534270804882-6b5048b1c1fc"
+    ]
+  },
+  {
+    "username": "johndoe",
+    "attractionName": "Brooklyn Bridge",
+    "rating": 5,
+    "comment": "Walking across the Brooklyn Bridge is one of the best experiences in NYC. The views of the Manhattan skyline are absolutely stunning. It's a peaceful walk, and I loved the historical markers along the way. The bridge is a beautiful piece of architecture, and the walk is totally worth it.",
+    "imageUrls" : [
+      "https://images.unsplash.com/photo-1659463964171-850d7f507602",
+      "https://images.unsplash.com/photo-1484249986871-8649d2efb1eb"
+    ]
+  },
+  {
+    "username": "janesmith",
+    "attractionName": "Brooklyn Bridge",
+    "rating": 4,
+    "comment": "The Brooklyn Bridge is definitely worth a visit. The views of the city from the bridge are incredible, and it's a great way to get from Manhattan to Brooklyn. However, it can get crowded, especially during tourist season, which makes it harder to enjoy the walk in peace."
+  },
+  {
+    "username": "emilyj",
+    "attractionName": "Brooklyn Bridge",
+    "rating": 5,
+    "comment": "The Brooklyn Bridge is one of the most iconic landmarks in New York. Walking across it, with the breeze in your hair and the stunning skyline in the distance, is unforgettable. It’s a great way to see the city from a different perspective, and the photos you can take from here are amazing."
+  },
+  {
+    "username": "mikeb",
+    "attractionName": "Brooklyn Bridge",
+    "rating": 5,
+    "comment": "The Brooklyn Bridge was a highlight of my trip! Walking from Manhattan to Brooklyn offers beautiful views of the skyline and the East River. I also enjoyed the nearby parks on both sides of the bridge. It's definitely one of the most picturesque spots in the city."
+  },
+  {
+    "username": "sarahd",
+    "attractionName": "Brooklyn Bridge",
+    "rating": 4,
+    "comment": "The Brooklyn Bridge is a must-do when visiting NYC. The walk across the bridge gives you fantastic views of the city and the river. However, be prepared for it to be quite crowded, especially on weekends, and it can get noisy with the traffic. Still, a must-see landmark!"
+  }
+]

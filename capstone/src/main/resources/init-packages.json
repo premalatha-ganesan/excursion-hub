@@ -1,0 +1,62 @@
+[
+  {
+    "packageName": "Washington D.C. History & Monuments",
+    "description": "I can’t wait to dive into the rich history of Washington D.C. Walking through the National Mall will feel surreal, and visiting the Smithsonian National Museum of American History is a must for me. The Lincoln Memorial will be a powerful moment, and I’ll finally get to see the White House and Capitol in person. A peaceful stroll around the Tidal Basin will be the perfect way to soak it all in.",
+    "attractions": [
+      "National Mall",
+      "Smithsonian National Museum of American History",
+      "Lincoln Memorial",
+      "United States Capitol",
+      "Tidal Basin"
+    ],
+    "username": "johndoe"
+  },
+  {
+    "packageName": "New York City Highlights",
+    "description": "Exploring New York City is going to be amazing! Seeing the Statue of Liberty in person will be a dream come true. I’ll spend some time relaxing in Central Park and take in the incredible art at The Met. The views from the Empire State Building and Rockefeller Center will top off this unforgettable adventure.",
+    "attractions": [
+      "Statue of Liberty",
+      "Central Park",
+      "The Metropolitan Museum of Art",
+      "Empire State Building",
+      "Rockefeller Center"
+    ],
+    "username": "johndoe"
+  },
+  {
+    "packageName": "Chicago Architectural Adventure",
+    "description": "Chicago has always been on my travel list, and this trip is going to be incredible! I’m excited to explore Millennium Park and see its iconic sculptures. I’ll enjoy the stunning views from Willis Tower and spend some time at Navy Pier. Visiting the Art Institute of Chicago and strolling along the Riverwalk will make this trip unforgettable.",
+    "attractions": [
+      "Millennium Park",
+      "Willis Tower (formerly Sears Tower)",
+      "Navy Pier",
+      "The Art Institute of Chicago",
+      "Chicago Riverwalk"
+    ],
+    "username": "johndoe"
+  },
+  {
+    "packageName": "Las Vegas Excitement",
+    "description": "I can already feel the energy of Las Vegas! Walking along The Strip and watching the Bellagio Fountains is going to be a blast. I’ll explore Fremont Street’s vibrant scene and enjoy the luxury of The Venetian. A ride on the High Roller Observation Wheel will be a perfect way to see the city from above.",
+    "attractions": [
+      "The Strip",
+      "Bellagio Fountains",
+      "Fremont Street Experience",
+      "The Venetian",
+      "High Roller Observation Wheel"
+    ],
+    "username": "johndoe"
+  },
+  {
+    "packageName": "Seattle’s Scenic Delights",
+    "description": "Seattle has so much to offer, and I can’t wait to experience it all. Visiting the Space Needle has been on my list forever, and Pike Place Market will be such a fun stop. The beauty of Chihuly Garden and Glass and the creativity at MoPOP will blow me away. I’m also looking forward to a peaceful moment at Discovery Park.",
+    "attractions": [
+      "Space Needle",
+      "Pike Place Market",
+      "Chihuly Garden and Glass",
+      "Museum of Pop Culture (MoPOP)",
+      "Discovery Park"
+    ],
+    "username": "johndoe"
+  }
+]
