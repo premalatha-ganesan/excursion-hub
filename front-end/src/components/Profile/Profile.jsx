@@ -84,6 +84,9 @@ const Profile = ({ user }) => {
             <CardContent>
               <Typography variant="h5" sx={{ textAlign: 'left', marginBottom: 3, color:'#223843' }}>My Packages</Typography>
 
+              <Typography variant="h5" sx={{ textAlign: 'left', marginBottom: 3, color:'#223843' }}>Public Packages</Typography>
+
+
               {travelPackages.length === 0 ? (
                 <Typography variant="body1" sx={{ textAlign: 'center', color: 'gray', marginTop: 2 }}>You don't have any travel packages yet. Start adding some to see them here!</Typography>
               ) : (
